@@ -1,0 +1,2 @@
+# remdics
+Remote Dictionary Service
